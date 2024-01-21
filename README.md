@@ -55,8 +55,8 @@ $ python Run.py
 - Maybe you entered the wrong post link or your Instagram account is locked.
 
 ### Why did likes drop?
-- Maybe Instagram has detected spam in your post likes.
 - Maybe because they stopped liking your posts.
+- Maybe Instagram has detected spam in your post likes.
 
 ### What is recommended?
 We expect every user to use a new account or a fake account to log in to the tool and all problems may be caused by the website being under maintenance.
