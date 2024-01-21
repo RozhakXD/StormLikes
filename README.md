@@ -50,9 +50,9 @@ $ python Run.py
 - Please log in to **"[bigtakip.com](https://bigtakip.com)"** manually then repeat the login in tools.
 
 ### Likes don't arrive?
-- The service currently has no users to exchange likes.
-- Maybe you entered the wrong post link.
-- The service is being updated or maintained.
+- Maybe the website is being repaired or is undergoing maintenance.
+- Maybe this service doesn't have users to exchange likes.
+- Maybe you entered the wrong post link or your Instagram account is locked.
 
 ### What is recommended?
 We expect every user to use a new account or a fake account to log in to the tool and all problems may be caused by the website being under maintenance.
