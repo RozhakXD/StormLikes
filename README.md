@@ -38,16 +38,16 @@ $ python Run.py
 ```
 
 ### Why is my account checkpointed?
-- You must complete your account using your telephone number and email to avoid spam detection.
+- Complete your account with your phone number and email to be safe.
 - Frequently change passwords on fake accounts.
-- Use a new or unused account to log in.
+- I suggest using a new account or a fake account to log in.
 
 ### Why login failed?
 - Maybe Instagram has blocked your fake account password, try changing the password.
 - Maybe your fake account has been checkpointed or disabled.
 - We recommend using airplane mode before logging into the tools.
 - You entered the wrong password.
-- Please log in to **"bigtakip.com"** manually then repeat the login in tools.
+- Please log in to **"[bigtakip.com](https://bigtakip.com)"** manually then repeat the login in tools.
 
 ### Likes don't arrive?
 - The service currently has no users to exchange likes.
