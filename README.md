@@ -57,6 +57,7 @@ $ python Run.py
 ### Why did likes drop?
 - Maybe because they stopped liking your posts.
 - Maybe because Instagram has detected spam in your post.
+- Because their account was deactivated by Instagram.
 
 ### What is recommended?
 We expect every user to use a new account or a fake account to log in to the tool and all problems may be caused by the website being under maintenance.
