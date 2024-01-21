@@ -17,7 +17,7 @@
 ##
 
 ### What is StormLikes?
-[**Like4Book**](https://github.com/RozhakXD/StormLikes) is a tools used to get free likes on Instagram.
+[**StormLikes**](https://github.com/RozhakXD/StormLikes) is a tools used to get free likes on Instagram.
 
 You can get 10-20 likes in an hour!
 
@@ -53,6 +53,10 @@ $ python Run.py
 - Maybe the website is being repaired or is undergoing maintenance.
 - Maybe this service doesn't have users to exchange likes.
 - Maybe you entered the wrong post link or your Instagram account is locked.
+
+### Why did likes drop?
+- Maybe Instagram has detected spam in your post likes.
+- Maybe because they stopped liking your posts.
 
 ### What is recommended?
 We expect every user to use a new account or a fake account to log in to the tool and all problems may be caused by the website being under maintenance.
