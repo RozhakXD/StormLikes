@@ -22,7 +22,7 @@
 You can get 10-20 likes in an hour!
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/y5ccUAE4RxU). Then you enter this command into termux!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/J0QxKaFrXs8). Then you enter this command into termux!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
